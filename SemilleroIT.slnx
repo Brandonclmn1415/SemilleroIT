@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="SemilleroIT.Data/SemilleroIT.Persisten.csproj" Id="3d7f0215-ef2a-46e3-ac50-5831694f1b53" />
+  <Project Path="SemilleroIT.Domain/SemilleroIT.Domain.csproj" Id="f24a6374-f026-4654-bce3-09d0f62b2d52" />
+  <Project Path="SemilleroIT.Services/SemilleroIT.Services.csproj" Id="d18472f2-9584-4753-a5be-3d5a560246f6" />
+  <Project Path="SemilleroIT.Web/SemilleroIT.Web.csproj" Id="279a421b-689e-46da-8ab4-77bdb4ae99f5" />
+</Solution>
