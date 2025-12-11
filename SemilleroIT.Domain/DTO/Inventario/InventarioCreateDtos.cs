@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace SemilleroIT.Domain.DTO.Inventario
 {
-    internal class InventarioCreateDtos
+    public class InventarioCreateDtos
     {
+
     }
 }

@@ -8,6 +8,10 @@ namespace SemilleroIT.Domain.Entidades
 {
     public class Usuario
     {
-
+        public string Id { get; set; }
+        public string Nombre_Usuario { get; set; }
+        public string Nombre { get; set; }
+        public string Apellido { get; set; }
+        public string Correo { get; set; }
     }
 }

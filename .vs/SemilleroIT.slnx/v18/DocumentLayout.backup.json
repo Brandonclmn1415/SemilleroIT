@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\brandon.vega\\source\\repos\\SemilleroIT\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F24A6374-F026-4654-BCE3-09D0F62B2D52}|SemilleroIT.Domain\\SemilleroIT.Domain.csproj|c:\\users\\brandon.vega\\source\\repos\\semilleroit\\semilleroit.domain\\entidades\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F24A6374-F026-4654-BCE3-09D0F62B2D52}|SemilleroIT.Domain\\SemilleroIT.Domain.csproj|solutionrelative:semilleroit.domain\\entidades\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F24A6374-F026-4654-BCE3-09D0F62B2D52}|SemilleroIT.Domain\\SemilleroIT.Domain.csproj|c:\\users\\brandon.vega\\source\\repos\\semilleroit\\semilleroit.domain\\dto\\inventario\\inventariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F24A6374-F026-4654-BCE3-09D0F62B2D52}|SemilleroIT.Domain\\SemilleroIT.Domain.csproj|solutionrelative:semilleroit.domain\\dto\\inventario\\inventariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F24A6374-F026-4654-BCE3-09D0F62B2D52}|SemilleroIT.Domain\\SemilleroIT.Domain.csproj|c:\\users\\brandon.vega\\source\\repos\\semilleroit\\semilleroit.domain\\dto\\usuarios\\loginrequestdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F24A6374-F026-4654-BCE3-09D0F62B2D52}|SemilleroIT.Domain\\SemilleroIT.Domain.csproj|solutionrelative:semilleroit.domain\\dto\\usuarios\\loginrequestdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F24A6374-F026-4654-BCE3-09D0F62B2D52}|SemilleroIT.Domain\\SemilleroIT.Domain.csproj|c:\\users\\brandon.vega\\source\\repos\\semilleroit\\semilleroit.domain\\dto\\usuarios\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F24A6374-F026-4654-BCE3-09D0F62B2D52}|SemilleroIT.Domain\\SemilleroIT.Domain.csproj|solutionrelative:semilleroit.domain\\dto\\usuarios\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,43 +19,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Inventario.cs",
-              "DocumentMoniker": "C:\\Users\\brandon.vega\\source\\repos\\SemilleroIT\\SemilleroIT.Domain\\Entidades\\Inventario.cs",
-              "RelativeDocumentMoniker": "SemilleroIT.Domain\\Entidades\\Inventario.cs",
-              "ToolTip": "C:\\Users\\brandon.vega\\source\\repos\\SemilleroIT\\SemilleroIT.Domain\\Entidades\\Inventario.cs",
-              "RelativeToolTip": "SemilleroIT.Domain\\Entidades\\Inventario.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAA3wA4AAAAyAAAAAAAAAA==",
+              "Title": "LoginResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\brandon.vega\\source\\repos\\SemilleroIT\\SemilleroIT.Domain\\DTO\\Usuarios\\LoginResponseDto.cs",
+              "RelativeDocumentMoniker": "SemilleroIT.Domain\\DTO\\Usuarios\\LoginResponseDto.cs",
+              "ToolTip": "C:\\Users\\brandon.vega\\source\\repos\\SemilleroIT\\SemilleroIT.Domain\\DTO\\Usuarios\\LoginResponseDto.cs",
+              "RelativeToolTip": "SemilleroIT.Domain\\DTO\\Usuarios\\LoginResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-11T19:47:06.135Z",
+              "WhenOpened": "2025-12-11T20:46:42.173Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "InventarioDto.cs",
-              "DocumentMoniker": "C:\\Users\\brandon.vega\\source\\repos\\SemilleroIT\\SemilleroIT.Domain\\DTO\\Inventario\\InventarioDto.cs",
-              "RelativeDocumentMoniker": "SemilleroIT.Domain\\DTO\\Inventario\\InventarioDto.cs",
-              "ToolTip": "C:\\Users\\brandon.vega\\source\\repos\\SemilleroIT\\SemilleroIT.Domain\\DTO\\Inventario\\InventarioDto.cs",
-              "RelativeToolTip": "SemilleroIT.Domain\\DTO\\Inventario\\InventarioDto.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-11T19:42:32.159Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LoginRequestDtos.cs",
-              "DocumentMoniker": "C:\\Users\\brandon.vega\\source\\repos\\SemilleroIT\\SemilleroIT.Domain\\DTO\\Usuarios\\LoginRequestDtos.cs",
-              "RelativeDocumentMoniker": "SemilleroIT.Domain\\DTO\\Usuarios\\LoginRequestDtos.cs",
-              "ToolTip": "C:\\Users\\brandon.vega\\source\\repos\\SemilleroIT\\SemilleroIT.Domain\\DTO\\Usuarios\\LoginRequestDtos.cs",
-              "RelativeToolTip": "SemilleroIT.Domain\\DTO\\Usuarios\\LoginRequestDtos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-11T19:41:46.491Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Bookmark",
