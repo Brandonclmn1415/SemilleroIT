@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\brandon.vega\\source\\repos\\SemilleroIT\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F24A6374-F026-4654-BCE3-09D0F62B2D52}|SemilleroIT.Domain\\SemilleroIT.Domain.csproj|c:\\users\\brandon.vega\\source\\repos\\semilleroit\\semilleroit.domain\\dto\\usuarios\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F24A6374-F026-4654-BCE3-09D0F62B2D52}|SemilleroIT.Domain\\SemilleroIT.Domain.csproj|solutionrelative:semilleroit.domain\\dto\\usuarios\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3D7F0215-EF2A-46E3-AC50-5831694F1B53}|SemilleroIT.Data\\SemilleroIT.Persisten.csproj|c:\\users\\brandon.vega\\source\\repos\\semilleroit\\semilleroit.data\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D7F0215-EF2A-46E3-AC50-5831694F1B53}|SemilleroIT.Data\\SemilleroIT.Persisten.csproj|solutionrelative:semilleroit.data\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F24A6374-F026-4654-BCE3-09D0F62B2D52}|SemilleroIT.Domain\\SemilleroIT.Domain.csproj|c:\\users\\brandon.vega\\source\\repos\\semilleroit\\semilleroit.domain\\interfaces\\repositories\\iinventariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F24A6374-F026-4654-BCE3-09D0F62B2D52}|SemilleroIT.Domain\\SemilleroIT.Domain.csproj|solutionrelative:semilleroit.domain\\interfaces\\repositories\\iinventariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "LoginResponseDto.cs",
-              "DocumentMoniker": "C:\\Users\\brandon.vega\\source\\repos\\SemilleroIT\\SemilleroIT.Domain\\DTO\\Usuarios\\LoginResponseDto.cs",
-              "RelativeDocumentMoniker": "SemilleroIT.Domain\\DTO\\Usuarios\\LoginResponseDto.cs",
-              "ToolTip": "C:\\Users\\brandon.vega\\source\\repos\\SemilleroIT\\SemilleroIT.Domain\\DTO\\Usuarios\\LoginResponseDto.cs",
-              "RelativeToolTip": "SemilleroIT.Domain\\DTO\\Usuarios\\LoginResponseDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABAAAAAAAAAAA==",
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\brandon.vega\\source\\repos\\SemilleroIT\\SemilleroIT.Data\\Context\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "SemilleroIT.Data\\Context\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\brandon.vega\\source\\repos\\SemilleroIT\\SemilleroIT.Data\\Context\\AppDBContext.cs",
+              "RelativeToolTip": "SemilleroIT.Data\\Context\\AppDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-11T20:46:42.173Z",
+              "WhenOpened": "2025-12-11T21:35:55.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IInventarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\brandon.vega\\source\\repos\\SemilleroIT\\SemilleroIT.Domain\\Interfaces\\Repositories\\IInventarioRepository.cs",
+              "RelativeDocumentMoniker": "SemilleroIT.Domain\\Interfaces\\Repositories\\IInventarioRepository.cs",
+              "ToolTip": "C:\\Users\\brandon.vega\\source\\repos\\SemilleroIT\\SemilleroIT.Domain\\Interfaces\\Repositories\\IInventarioRepository.cs",
+              "RelativeToolTip": "SemilleroIT.Domain\\Interfaces\\Repositories\\IInventarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T21:33:38.189Z",
               "EditorCaption": ""
             },
             {
