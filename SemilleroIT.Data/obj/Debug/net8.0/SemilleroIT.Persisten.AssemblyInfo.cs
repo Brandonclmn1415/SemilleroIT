@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SemilleroIT.Persisten")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+77bf4274e6a67c613c860859043dd347c4560932")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4f1f4b0ee59a89b11673058fdeaa40ce43ac2009")]
 [assembly: System.Reflection.AssemblyProductAttribute("SemilleroIT.Persisten")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SemilleroIT.Persisten")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

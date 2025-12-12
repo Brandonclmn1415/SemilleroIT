@@ -7,8 +7,12 @@
       "RelativeMoniker": "D:0:0:{3D7F0215-EF2A-46E3-AC50-5831694F1B53}|SemilleroIT.Data\\SemilleroIT.Persisten.csproj|solutionrelative:semilleroit.data\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F24A6374-F026-4654-BCE3-09D0F62B2D52}|SemilleroIT.Domain\\SemilleroIT.Domain.csproj|c:\\users\\brandon.vega\\source\\repos\\semilleroit\\semilleroit.domain\\interfaces\\repositories\\iinventariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F24A6374-F026-4654-BCE3-09D0F62B2D52}|SemilleroIT.Domain\\SemilleroIT.Domain.csproj|solutionrelative:semilleroit.domain\\interfaces\\repositories\\iinventariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3D7F0215-EF2A-46E3-AC50-5831694F1B53}|SemilleroIT.Data\\SemilleroIT.Persisten.csproj|c:\\users\\brandon.vega\\source\\repos\\semilleroit\\semilleroit.data\\repositories\\interfaces\\repositories\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D7F0215-EF2A-46E3-AC50-5831694F1B53}|SemilleroIT.Data\\SemilleroIT.Persisten.csproj|solutionrelative:semilleroit.data\\repositories\\interfaces\\repositories\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D7F0215-EF2A-46E3-AC50-5831694F1B53}|SemilleroIT.Data\\SemilleroIT.Persisten.csproj|c:\\users\\brandon.vega\\source\\repos\\semilleroit\\semilleroit.data\\context\\tableconfig\\inventario\\usuarioconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D7F0215-EF2A-46E3-AC50-5831694F1B53}|SemilleroIT.Data\\SemilleroIT.Persisten.csproj|solutionrelative:semilleroit.data\\context\\tableconfig\\inventario\\usuarioconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +22,38 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\brandon.vega\\source\\repos\\SemilleroIT\\SemilleroIT.Data\\Repositories\\Interfaces\\Repositories\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "SemilleroIT.Data\\Repositories\\Interfaces\\Repositories\\IUsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\brandon.vega\\source\\repos\\SemilleroIT\\SemilleroIT.Data\\Repositories\\Interfaces\\Repositories\\IUsuarioRepository.cs",
+              "RelativeToolTip": "SemilleroIT.Data\\Repositories\\Interfaces\\Repositories\\IUsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T14:10:58.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioConfig.cs",
+              "DocumentMoniker": "C:\\Users\\brandon.vega\\source\\repos\\SemilleroIT\\SemilleroIT.Data\\Context\\TableConfig\\Inventario\\UsuarioConfig.cs",
+              "RelativeDocumentMoniker": "SemilleroIT.Data\\Context\\TableConfig\\Inventario\\UsuarioConfig.cs",
+              "ToolTip": "C:\\Users\\brandon.vega\\source\\repos\\SemilleroIT\\SemilleroIT.Data\\Context\\TableConfig\\Inventario\\UsuarioConfig.cs",
+              "RelativeToolTip": "SemilleroIT.Data\\Context\\TableConfig\\Inventario\\UsuarioConfig.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T14:10:58.065Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,27 +62,10 @@
               "RelativeDocumentMoniker": "SemilleroIT.Data\\Context\\AppDBContext.cs",
               "ToolTip": "C:\\Users\\brandon.vega\\source\\repos\\SemilleroIT\\SemilleroIT.Data\\Context\\AppDBContext.cs",
               "RelativeToolTip": "SemilleroIT.Data\\Context\\AppDBContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-11T21:35:55.215Z",
+              "WhenOpened": "2025-12-12T14:10:58.073Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IInventarioRepository.cs",
-              "DocumentMoniker": "C:\\Users\\brandon.vega\\source\\repos\\SemilleroIT\\SemilleroIT.Domain\\Interfaces\\Repositories\\IInventarioRepository.cs",
-              "RelativeDocumentMoniker": "SemilleroIT.Domain\\Interfaces\\Repositories\\IInventarioRepository.cs",
-              "ToolTip": "C:\\Users\\brandon.vega\\source\\repos\\SemilleroIT\\SemilleroIT.Domain\\Interfaces\\Repositories\\IInventarioRepository.cs",
-              "RelativeToolTip": "SemilleroIT.Domain\\Interfaces\\Repositories\\IInventarioRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-11T21:33:38.189Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             }
           ]
         }

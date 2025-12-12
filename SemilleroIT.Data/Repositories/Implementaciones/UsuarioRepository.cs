@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SemilleroIT.Persisten.Repositories
+namespace SemilleroIT.Persisten.Repositories.Implmentaciones
 {
-    internal class InventarioRepository
+    internal class UsuarioRepository
     {
     }
 }

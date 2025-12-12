@@ -961,6 +961,43 @@
             "rid": "win"
           }
         }
+      },
+      "SemilleroIT.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "8.0.0",
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.0"
+        },
+        "compile": {
+          "bin/placeholder/SemilleroIT.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SemilleroIT.Domain.dll": {}
+        }
+      },
+      "SemilleroIT.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/SemilleroIT.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SemilleroIT.Services.dll": {}
+        }
+      },
+      "SemilleroIT.Web/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/SemilleroIT.Web.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SemilleroIT.Web.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       }
     }
   },
@@ -2652,12 +2689,30 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "SemilleroIT.Domain/1.0.0": {
+      "type": "project",
+      "path": "../SemilleroIT.Domain/SemilleroIT.Domain.csproj",
+      "msbuildProject": "../SemilleroIT.Domain/SemilleroIT.Domain.csproj"
+    },
+    "SemilleroIT.Services/1.0.0": {
+      "type": "project",
+      "path": "../SemilleroIT.Services/SemilleroIT.Services.csproj",
+      "msbuildProject": "../SemilleroIT.Services/SemilleroIT.Services.csproj"
+    },
+    "SemilleroIT.Web/1.0.0": {
+      "type": "project",
+      "path": "../SemilleroIT.Web/SemilleroIT.Web.csproj",
+      "msbuildProject": "../SemilleroIT.Web/SemilleroIT.Web.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
       "Microsoft.EntityFrameworkCore >= 8.0.0",
-      "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.0"
+      "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.0",
+      "SemilleroIT.Domain >= 1.0.0",
+      "SemilleroIT.Services >= 1.0.0",
+      "SemilleroIT.Web >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -2692,7 +2747,17 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\brandon.vega\\source\\repos\\SemilleroIT\\SemilleroIT.Domain\\SemilleroIT.Domain.csproj": {
+              "projectPath": "C:\\Users\\brandon.vega\\source\\repos\\SemilleroIT\\SemilleroIT.Domain\\SemilleroIT.Domain.csproj"
+            },
+            "C:\\Users\\brandon.vega\\source\\repos\\SemilleroIT\\SemilleroIT.Services\\SemilleroIT.Services.csproj": {
+              "projectPath": "C:\\Users\\brandon.vega\\source\\repos\\SemilleroIT\\SemilleroIT.Services\\SemilleroIT.Services.csproj"
+            },
+            "C:\\Users\\brandon.vega\\source\\repos\\SemilleroIT\\SemilleroIT.Web\\SemilleroIT.Web.csproj": {
+              "projectPath": "C:\\Users\\brandon.vega\\source\\repos\\SemilleroIT\\SemilleroIT.Web\\SemilleroIT.Web.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
