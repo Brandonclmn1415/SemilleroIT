@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "JrPIZ+NHjhw=",
+  "dgSpecHash": "FDy5rusdvUs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\brandon.vega\\source\\repos\\SemilleroIT\\SemilleroIT.Web\\SemilleroIT.Web.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\henderson.moreno\\Documents\\SemilleroIT\\SemilleroIT.Web\\SemilleroIT.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\henderson.moreno\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.1\\microsoft.aspnetcore.app.internal.assets.10.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
