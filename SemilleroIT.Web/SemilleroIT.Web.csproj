@@ -6,4 +6,13 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Components\Shared\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SemilleroIT.Data\SemilleroIT.Persistence.csproj" />
+    <ProjectReference Include="..\SemilleroIT.Services\SemilleroIT.Services.csproj" />
+  </ItemGroup>
+
 </Project>

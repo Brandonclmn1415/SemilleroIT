@@ -9,18 +9,17 @@ using Microsoft.EntityFrameworkCore;
 
 namespace SemilleroIT.Domain.Entities.Inventario
 {
-    [Table ("Inventario", Schema = "Seg")]
-    public class Inventario
+    [Table ("Inventarios", Schema = "Inv")]
+    public class Inventarios : BaseEntity
     {
-        public int Id { get; set; }
 
         [MaxLength  (50)]
-        public string Nombre { get; set; }
+        public string Nombre_Producto { get; set; }
 
         [MaxLength (50)]
         public string Descripcion_Producto { get; set; }
-        public decimal Precio_Producto { get; set; }
-        public int Cantidad_Producto { get; set; } 
+        public decimal Precio { get; set; }
+        public int Cantidad { get; set; } 
         
     }
 }

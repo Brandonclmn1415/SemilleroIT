@@ -13,6 +13,7 @@ namespace SemilleroIT.Domain.Entities.Perfilamiento;
 [Table ("Usuario", Schema = "Seg")]
 public class Usuario : BaseEntity
 {
+    [Key]
     public long Id { get; set; }
 
     [MaxLength  (50)]
@@ -26,4 +27,12 @@ public class Usuario : BaseEntity
 
     [MaxLength (50)]
     public string Correo { get; set; }
+
+    [MaxLength (50)]
+    public string Password { get; set; }
+
+    public int intentosFallidos { get; set; }
+    public bool isLocked { get; set; }
+    public DateTime? FechaUltimoLogin { get; set; }
+
 }

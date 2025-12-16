@@ -11,4 +11,9 @@ namespace SemilleroIT.Persistence.Repositories.Interfaces.Perfilamiento;
 public interface IUsuarioRepository : IGenericRepository<Usuario>
 {
     public Task<bool> InsertarUsuario(Usuario usuario);
+    public Task<Usuario> GetByUsernameAsync(string username);
+    public Task<bool> ExistUsernameAsync(string username);
+
+    public Task<Usuario> UpdateAsync(Usuario usuario);
+
 }

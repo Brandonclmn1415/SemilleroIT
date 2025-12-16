@@ -2,6 +2,7 @@
 using SemilleroIT.Domain.Entities.Inventario;
 using SemilleroIT.Domain.Entities.Perfilamiento;
 using SemilleroIT.Persistence.Context.TableConfig.Inventario;
+using SemilleroIT.Persistence.Data.TableConfig.Perfilamiento;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -20,7 +21,7 @@ public class AppDBContext : DbContext
     }
 
     public DbSet<Usuario> Usuarios { get; set; }
-    public DbSet<Inventario> Inventarios { get; set; }
+    public DbSet<Inventarios> Inventarios { get; set; }
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
@@ -29,7 +30,7 @@ public class AppDBContext : DbContext
         #endregion
 
         #region Inventario
-
+        modelBuilder.ApplyConfiguration(new InventarioConfig());
         #endregion
 
         base.OnModelCreating(modelBuilder);

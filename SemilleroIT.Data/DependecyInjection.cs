@@ -2,6 +2,7 @@
 using SemilleroIT.Persistence.Data;
 using SemilleroIT.Persistence.Repositories.Implementations.Perfilamiento;
 using SemilleroIT.Persistence.Repositories.Interfaces.Perfilamiento;
+using SemilleroIT.Persistence.Repositories.Implementations.Inventario;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -9,6 +10,7 @@ using Microsoft.Extensions.Options;
 using System;
 using System.Collections.Generic;
 using System.Text;
+using SemilleroIT.Domain.Interfaces.Inventario;
 
 namespace SemilleroIT.Persistence;
 
@@ -35,6 +37,11 @@ public static class DependecyInjection
 
         #region Perfilamiento
         services.AddScoped<IUsuarioRepository, UsuarioRepository>();
+        #endregion
+
+
+        #region Inventario
+        services.AddScoped<IInventarioRepository, inventarioRepository>();
         #endregion
 
         return services;

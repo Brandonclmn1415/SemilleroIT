@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\henderson.moreno\\Documents\\SemilleroIT\\SemilleroIT.Services\\SemilleroIT.Services.csproj": {}
+    "C:\\Users\\brandon.vega\\source\\repos\\SemilleroIT\\SemilleroIT\\SemilleroIT.Services\\SemilleroIT.Services.csproj": {}
   },
   "projects": {
-    "C:\\Users\\henderson.moreno\\Documents\\SemilleroIT\\SemilleroIT.Data\\SemilleroIT.Persistence.csproj": {
+    "C:\\Users\\brandon.vega\\source\\repos\\SemilleroIT\\SemilleroIT\\SemilleroIT.Data\\SemilleroIT.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\henderson.moreno\\Documents\\SemilleroIT\\SemilleroIT.Data\\SemilleroIT.Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\brandon.vega\\source\\repos\\SemilleroIT\\SemilleroIT\\SemilleroIT.Data\\SemilleroIT.Persistence.csproj",
         "projectName": "SemilleroIT.Persistence",
-        "projectPath": "C:\\Users\\henderson.moreno\\Documents\\SemilleroIT\\SemilleroIT.Data\\SemilleroIT.Persistence.csproj",
-        "packagesPath": "C:\\Users\\henderson.moreno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\henderson.moreno\\Documents\\SemilleroIT\\SemilleroIT.Data\\obj\\",
+        "projectPath": "C:\\Users\\brandon.vega\\source\\repos\\SemilleroIT\\SemilleroIT\\SemilleroIT.Data\\SemilleroIT.Persistence.csproj",
+        "packagesPath": "C:\\Users\\brandon.vega\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\brandon.vega\\source\\repos\\SemilleroIT\\SemilleroIT\\SemilleroIT.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\henderson.moreno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\brandon.vega\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,14 +26,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\henderson.moreno\\Documents\\SemilleroIT\\SemilleroIT.Domain\\SemilleroIT.Domain.csproj": {
-                "projectPath": "C:\\Users\\henderson.moreno\\Documents\\SemilleroIT\\SemilleroIT.Domain\\SemilleroIT.Domain.csproj"
+              "C:\\Users\\brandon.vega\\source\\repos\\SemilleroIT\\SemilleroIT\\SemilleroIT.Domain\\SemilleroIT.Domain.csproj": {
+                "projectPath": "C:\\Users\\brandon.vega\\source\\repos\\SemilleroIT\\SemilleroIT\\SemilleroIT.Domain\\SemilleroIT.Domain.csproj"
               }
             }
           }
@@ -357,20 +358,20 @@
         }
       }
     },
-    "C:\\Users\\henderson.moreno\\Documents\\SemilleroIT\\SemilleroIT.Domain\\SemilleroIT.Domain.csproj": {
+    "C:\\Users\\brandon.vega\\source\\repos\\SemilleroIT\\SemilleroIT\\SemilleroIT.Domain\\SemilleroIT.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\henderson.moreno\\Documents\\SemilleroIT\\SemilleroIT.Domain\\SemilleroIT.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\brandon.vega\\source\\repos\\SemilleroIT\\SemilleroIT\\SemilleroIT.Domain\\SemilleroIT.Domain.csproj",
         "projectName": "SemilleroIT.Domain",
-        "projectPath": "C:\\Users\\henderson.moreno\\Documents\\SemilleroIT\\SemilleroIT.Domain\\SemilleroIT.Domain.csproj",
-        "packagesPath": "C:\\Users\\henderson.moreno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\henderson.moreno\\Documents\\SemilleroIT\\SemilleroIT.Domain\\obj\\",
+        "projectPath": "C:\\Users\\brandon.vega\\source\\repos\\SemilleroIT\\SemilleroIT\\SemilleroIT.Domain\\SemilleroIT.Domain.csproj",
+        "packagesPath": "C:\\Users\\brandon.vega\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\brandon.vega\\source\\repos\\SemilleroIT\\SemilleroIT\\SemilleroIT.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\henderson.moreno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\brandon.vega\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -379,6 +380,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -710,20 +712,20 @@
         }
       }
     },
-    "C:\\Users\\henderson.moreno\\Documents\\SemilleroIT\\SemilleroIT.Services\\SemilleroIT.Services.csproj": {
+    "C:\\Users\\brandon.vega\\source\\repos\\SemilleroIT\\SemilleroIT\\SemilleroIT.Services\\SemilleroIT.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\henderson.moreno\\Documents\\SemilleroIT\\SemilleroIT.Services\\SemilleroIT.Services.csproj",
+        "projectUniqueName": "C:\\Users\\brandon.vega\\source\\repos\\SemilleroIT\\SemilleroIT\\SemilleroIT.Services\\SemilleroIT.Services.csproj",
         "projectName": "SemilleroIT.Services",
-        "projectPath": "C:\\Users\\henderson.moreno\\Documents\\SemilleroIT\\SemilleroIT.Services\\SemilleroIT.Services.csproj",
-        "packagesPath": "C:\\Users\\henderson.moreno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\henderson.moreno\\Documents\\SemilleroIT\\SemilleroIT.Services\\obj\\",
+        "projectPath": "C:\\Users\\brandon.vega\\source\\repos\\SemilleroIT\\SemilleroIT\\SemilleroIT.Services\\SemilleroIT.Services.csproj",
+        "packagesPath": "C:\\Users\\brandon.vega\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\brandon.vega\\source\\repos\\SemilleroIT\\SemilleroIT\\SemilleroIT.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\henderson.moreno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\brandon.vega\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -732,17 +734,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\henderson.moreno\\Documents\\SemilleroIT\\SemilleroIT.Data\\SemilleroIT.Persistence.csproj": {
-                "projectPath": "C:\\Users\\henderson.moreno\\Documents\\SemilleroIT\\SemilleroIT.Data\\SemilleroIT.Persistence.csproj"
+              "C:\\Users\\brandon.vega\\source\\repos\\SemilleroIT\\SemilleroIT\\SemilleroIT.Data\\SemilleroIT.Persistence.csproj": {
+                "projectPath": "C:\\Users\\brandon.vega\\source\\repos\\SemilleroIT\\SemilleroIT\\SemilleroIT.Data\\SemilleroIT.Persistence.csproj"
               },
-              "C:\\Users\\henderson.moreno\\Documents\\SemilleroIT\\SemilleroIT.Domain\\SemilleroIT.Domain.csproj": {
-                "projectPath": "C:\\Users\\henderson.moreno\\Documents\\SemilleroIT\\SemilleroIT.Domain\\SemilleroIT.Domain.csproj"
+              "C:\\Users\\brandon.vega\\source\\repos\\SemilleroIT\\SemilleroIT\\SemilleroIT.Domain\\SemilleroIT.Domain.csproj": {
+                "projectPath": "C:\\Users\\brandon.vega\\source\\repos\\SemilleroIT\\SemilleroIT\\SemilleroIT.Domain\\SemilleroIT.Domain.csproj"
               }
             }
           }

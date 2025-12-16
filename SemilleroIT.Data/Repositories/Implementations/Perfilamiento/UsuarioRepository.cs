@@ -17,6 +17,18 @@ public class UsuarioRepository : EFCoreRepository<Usuario>, IUsuarioRepository
     {
     }
 
+    public async Task<bool> ExistUsernameAsync(string username)
+    {
+        using var context = _dbContextFactory.CreateDbContext();
+        return await context.Set<Usuario>().FirstOrDefaultAsync(u => u.Nombre_Usuario == username);
+    }
+
+    public async Task<Usuario> GetByUsernameAsync(string username)
+    {
+        using var context = _dbContextFactory.CreateDbContext();
+        return await context.Set<Usuario>().AnyAsync(u => u.Nombre_Usuario == username);
+    }
+
     public async Task<bool> InsertarUsuario(Usuario usuario)
     {
         using var context = _dbContextFactory.CreateDbContext();
@@ -39,4 +51,8 @@ public class UsuarioRepository : EFCoreRepository<Usuario>, IUsuarioRepository
         return entities > 0;
     }
 
+    public Task<Usuario> UpdateAsync(Usuario usuario)
+    {
+        throw new NotImplementedException();
+    }
 }
